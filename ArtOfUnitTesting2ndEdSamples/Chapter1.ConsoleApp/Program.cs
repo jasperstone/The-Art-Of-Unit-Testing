@@ -1,11 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 
 namespace Chapter1.ConsoleApp
 {
-    class Program
+    internal class Program
     {
         private static void Main(string[] args)
         {
@@ -18,6 +15,5 @@ namespace Chapter1.ConsoleApp
                 Console.WriteLine(e);
             }
         }
-
     }
 }
